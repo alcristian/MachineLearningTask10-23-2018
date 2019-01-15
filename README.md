@@ -1,3 +1,4 @@
+
 Nesta primeira tarefa (Atividade prática 1 – Modelagem), dentro dos conteúdos apresentados: 
 
 Identifique um problema candidato a uma aplicação de tecnologias de aprendizado de máquina; 
@@ -21,3 +22,6 @@ Identificação de tipos de algoritmos para a abordagem;
 As hipóteses iniciais que serão descobertas na análise exploratória do conjunto de dados. 
 
 É uma atividade descritiva. 
+
+Utilizado como dataSet.
+https://www.kaggle.com/currie32/crimes-in-chicago
